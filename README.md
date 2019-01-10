@@ -8,11 +8,15 @@
 # install dependencies
 npm install
 
-#To run this MEVN (Vue.js 2) Chat Application locally, make sure MongoDB service is running. Type this command to build the Vue.js 2 application then run the Express.js application.
+#To run this MEVN (Vue.js 2) Chat Application locally, make sure MongoDB service is running.
+#Type this command to build the Vue.js 2 application then run the Express.js application.
 
 npm start
 
-#Next, open the different browser (ex: Chrome and Firefox) then go to the `localhost:3000` on both of the browsers. You will see this page and you can start Chat.
+#Next, open the different browser (ex: Chrome and Firefox) then go to the `localhost:3000` on both of the browsers.
+#You will see this page and you can start Chat.
+
+
 
 # serve with hot reload at localhost:8080
 npm run dev
